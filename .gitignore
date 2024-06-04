@@ -5,4 +5,7 @@ package-lock.json
 
 
 .env
-.env.*
+.env.development
+.env.staging
+.env.test
+.env.production
